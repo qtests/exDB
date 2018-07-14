@@ -35,6 +35,8 @@ BlogPost
 
 -- http://www.parsonsmatt.org/2015/05/02/scotty_and_persistent.html
 
+-- connStr :: ConnectionString
+-- connStr = "host=localhost dbname=perscotty user=xx password=yy port=5432"
 
 
 -- dbFunction :: (BaseBackend backend ~ SqlBackend, IsPersistBackend backend, MonadIO m, MonadBaseControl IO m) => 
