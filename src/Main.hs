@@ -34,6 +34,7 @@ BlogPost
 |]
 
 -- http://www.parsonsmatt.org/2015/05/02/scotty_and_persistent.html
+-- https://github.com/parsonsmatt/scotty-persistent-example/
 
 -- connStr :: ConnectionString
 -- connStr = "host=localhost dbname=perscotty user=xx password=yy port=5432"
